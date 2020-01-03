@@ -1,0 +1,2 @@
+You can use another prefabs with LWRP from Standart render pipeline forler. 
+Only "Sand FX 5" from SRP doesn't work with LWRP because it use custom shader, so I recreated it.

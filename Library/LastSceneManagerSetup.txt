@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TheCity/CloudAnchor/Scenes/TheCity_CloudAnchor.unity
+  isLoaded: 1
+  isActive: 1
