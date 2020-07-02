@@ -25,4 +25,7 @@ https://github.com/ParkGG/TheCity/tree/master/Assets/TheCity/AugmentedImage/Scri
 
 ## 조명 인식
 
+
 주변 조명 인식은 ARCore에서 제공되는 기능으로, 카메라에 보여지는 픽셀의 값을 인식하여 현실 공간의 빛을 계산합니다.
+
+조명 인식 기능을 활용해 낮과 밤을 구분하고  건물에 낮과 밤의 차이를 주는 효과를 연출하였습니다.  
