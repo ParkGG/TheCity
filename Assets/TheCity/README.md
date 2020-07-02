@@ -1,6 +1,6 @@
 # README
 
-The City는 Google ARCore를 활용해 평면 인식(Cloud Anchor) & 이미지 인식(AugmentedImage)을 사용했습니다. 
+The City는 Google ARCore를 활용해 평면 인식(Cloud Anchor) & 이미지 인식(AugmentedImage) & 주변 조명 인식을 사용했습니다. 
 
 ##	평면 인식(Cloud Anchor)
 
@@ -21,3 +21,8 @@ https://github.com/ParkGG/TheCity/tree/master/Assets/TheCity/CloudAnchor/Scripts
 
 **제작 스크립트**
 https://github.com/ParkGG/TheCity/tree/master/Assets/TheCity/AugmentedImage/Scripts
+
+
+## 조명 인식
+
+주변 조명 인식은 ARCore에서 제공되는 기능으로, 카메라에 보여지는 픽셀의 값을 인식하여 현실 공간의 빛을 계산합니다.
